@@ -12,8 +12,8 @@ This project explores business performance across sales, profitability, products
  🎯 *Business Performance Overview* | Overall profit, profit margin, customer metrics, and yearly sales summary |
 
 # 📁 *Project Files*
- 📊 `Sales_Report_2017_18_19.pbix` | **Interactive Power BI report** containing the data model, DAX measures, three dashboard pages, slicers, and page navigation. Open with Power BI Desktop to explore the report. |
- 📄 `Sales_Report_2017_18_19.pdf` | **PDF report export** providing a static view of the dashboard pages for easy viewing and sharing. |
+ 📊 `Sales_Report_2017_18_19.pbix` | **Interactive Power BI report** containing the data model, DAX measures, three dashboard pages, slicers, and page navigation. Open with Power BI Desktop to explore the report. |  
+ 📄 `Sales_Report_2017_18_19.pdf` | **PDF report export** providing a static view of the dashboard pages for easy viewing and sharing. | 
  📗 `exam_dataset.xlsx` | **Source dataset** containing sales transactions from 2017–2019 and supporting product, location, customer, and salesperson data. |
 
 # 🛠️ *Tools & Technologies*
