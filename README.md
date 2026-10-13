@@ -6,9 +6,9 @@ An interactive, three-page Power BI dashboard designed to analyze sales performa
 
 This project explores business performance across sales, profitability, products, customers, geographical regions, and salespeople. It combines data preparation, data modeling, and DAX calculations to present key metrics in a clear, interactive report.
 
-# 📑 Dashboard Pages
- 📈 *Sales Performance* | Sales trends, order patterns, geographical sales, and salesperson contribution |
- 🛍️ *Product Performance & Profitability* | Product reach, cost versus profit, and margin analysis |
+# 📑 *Dashboard Pages*
+ 📈 *Sales Performance* | Sales trends, order patterns, geographical sales, and salesperson contribution |  
+ 🛍️ *Product Performance & Profitability* | Product reach, cost versus profit, and margin analysis |  
  🎯 *Business Performance Overview* | Overall profit, profit margin, customer metrics, and yearly sales summary |
 
 # 📁 *Project Files*
@@ -24,7 +24,7 @@ This project explores business performance across sales, profitability, products
 - **Data Modeling** — Star-schema model connecting sales data with customer, product, location, salesperson, and date tables
 - **Microsoft Excel** — Source data management
 
-# 🔍 Key Analysis Areas
+# 🔍 *Key Analysis Areas*
 
 - 📈 **Sales Trends:** Monthly sales and month-over-month growth
 - 💰 **Profitability:** Quarterly profit, profit margins, revenue, and cost analysis
@@ -35,8 +35,8 @@ This project explores business performance across sales, profitability, products
 - 🎯 **Business KPIs:** Total Sales, Total Profit, Profit Margin %, Total Cost, Total Orders, Total Customers, Items Sold, Average Order Value, Average Selling Price, Profit per Order, Orders per Customer, Distinct Products Sold, Sales per Customer, Sales per Salesperson, and Active Salespeople
 - 🎛️ **Interactive Exploration:** Date-range and location slicers for filtering report data
 
-# 🎯 Project Objective
+# 🎯 *Project Objective*
 
 To demonstrate an end-to-end business intelligence workflow, from data preparation and modeling to DAX calculations and interactive dashboard design. The report brings key business metrics together to help stakeholders monitor performance, explore trends, and evaluate sales and profitability across multiple dimensions.
 
-*Developed using Microsoft Power BI | Data Analysis • DAX • Data Visualization*
+# *Developed using Microsoft Power BI | Data Analysis • DAX • Data Visualization*
