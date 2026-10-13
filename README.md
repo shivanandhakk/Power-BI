@@ -4,7 +4,8 @@ An interactive, three-page Power BI dashboard designed to analyze sales performa
 
 # 📌 *Project Overview* 
 
-This project explores business performance across sales, profitability, products, customers, geographical regions, and salespeople. It combines data preparation, data modeling, and DAX calculations to present key metrics in a clear, interactive report.
+This project explores business performance across sales, profitability, products, customers, geographical regions, and salespeople.  
+It combines data preparation, data modeling, and DAX calculations to present key metrics in a clear, interactive report.
 
 # 📑 *Dashboard Pages*
  📈 **Sales Performance** | Sales trends, order patterns, geographical sales, and salesperson contribution.   
