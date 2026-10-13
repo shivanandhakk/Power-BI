@@ -9,7 +9,7 @@ It combines data preparation, data modeling, and DAX calculations to present key
 
 # 📑 *Dashboard Pages*
  📈 **Sales Performance** | Sales trends, order patterns, geographical sales, and salesperson contribution.   
- 🛍️ **Product Performance & Profitability** | Product reach, cost versus profit, and margin analysis.   
+ 🛍️ **Product Performance & Profitability** | Product reach, cost vs profit, and margin analysis.   
  🎯 **Business Performance Overview** | Overall profit, profit margin, customer metrics, and yearly sales summary. 
 
 # 📁 *Project Files*
