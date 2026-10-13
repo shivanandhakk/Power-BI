@@ -7,14 +7,14 @@ An interactive, three-page Power BI dashboard designed to analyze sales performa
 This project explores business performance across sales, profitability, products, customers, geographical regions, and salespeople. It combines data preparation, data modeling, and DAX calculations to present key metrics in a clear, interactive report.
 
 # 📑 *Dashboard Pages*
- 📈 *Sales Performance* | Sales trends, order patterns, geographical sales, and salesperson contribution |  
- 🛍️ *Product Performance & Profitability* | Product reach, cost versus profit, and margin analysis |  
- 🎯 *Business Performance Overview* | Overall profit, profit margin, customer metrics, and yearly sales summary |
+ 📈 *Sales Performance* | Sales trends, order patterns, geographical sales, and salesperson contribution   
+ 🛍️ *Product Performance & Profitability* | Product reach, cost versus profit, and margin analysis   
+ 🎯 *Business Performance Overview* | Overall profit, profit margin, customer metrics, and yearly sales summary 
 
 # 📁 *Project Files*
- 📊 `Sales_Report_2017_18_19.pbix` | **Interactive Power BI report** containing the data model, DAX measures, three dashboard pages, slicers, and page navigation. Open with Power BI Desktop to explore the report. |  
- 📄 `Sales_Report_2017_18_19.pdf` | **PDF report export** providing a static view of the dashboard pages for easy viewing and sharing. | 
- 📗 `exam_dataset.xlsx` | **Source dataset** containing sales transactions from 2017–2019 and supporting product, location, customer, and salesperson data. |
+ 📊 `Sales_Report_2017_18_19.pbix` | **Interactive Power BI report** containing the data model, DAX measures, three dashboard pages, slicers, and page navigation. Open with Power BI Desktop to explore the report.   
+ 📄 `Sales_Report_2017_18_19.pdf` | **PDF report export** providing a static view of the dashboard pages for easy viewing and sharing.  
+ 📗 `exam_dataset.xlsx` | **Source dataset** containing sales transactions from 2017–2019 and supporting product, location, customer, and salesperson data. 
 
 # 🛠️ *Tools & Technologies*
 
