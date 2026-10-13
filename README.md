@@ -7,9 +7,9 @@ An interactive, three-page Power BI dashboard designed to analyze sales performa
 This project explores business performance across sales, profitability, products, customers, geographical regions, and salespeople. It combines data preparation, data modeling, and DAX calculations to present key metrics in a clear, interactive report.
 
 # 📑 *Dashboard Pages*
- 📈 *Sales Performance* | Sales trends, order patterns, geographical sales, and salesperson contribution   
- 🛍️ *Product Performance & Profitability* | Product reach, cost versus profit, and margin analysis   
- 🎯 *Business Performance Overview* | Overall profit, profit margin, customer metrics, and yearly sales summary 
+ 📈 *Sales Performance* | Sales trends, order patterns, geographical sales, and salesperson contribution.   
+ 🛍️ *Product Performance & Profitability* | Product reach, cost versus profit, and margin analysis.   
+ 🎯 *Business Performance Overview* | Overall profit, profit margin, customer metrics, and yearly sales summary. 
 
 # 📁 *Project Files*
  📊 `Sales_Report_2017_18_19.pbix` | **Interactive Power BI report** containing the data model, DAX measures, three dashboard pages, slicers, and page navigation. Open with Power BI Desktop to explore the report.   
@@ -18,10 +18,10 @@ This project explores business performance across sales, profitability, products
 
 # 🛠️ *Tools & Technologies*
 
-- **Microsoft Power BI** — Dashboard development and data visualization
-- **DAX** — Measures for sales, cost, profit, margins, averages, and month-over-month growth
-- **Power Query** — Data loading and transformation
-- **Data Modeling** — Star-schema model connecting sales data with customer, product, location, salesperson, and date tables
+- **Microsoft Power BI** — Dashboard development and data visualization.
+- **DAX** — Measures for sales, cost, profit, margins, averages, and month-over-month growth.
+- **Power Query** — Data loading and transformation.
+- **Data Modeling** — Star-schema model connecting sales data with customer, product, location, salesperson, and date tables.
 - **Microsoft Excel** — Source data management
 
 # 🔍 *Key Analysis Areas*
